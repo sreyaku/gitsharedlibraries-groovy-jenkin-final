@@ -1,4 +1,4 @@
-@Library 'gitsharedlibraries-groovy-jenkin-final' _
+@Library "gitsharedlibraries-groovy-jenkin-final" _
 
 import com.demo.GlobalVars
 import com.demo.SampleClass
